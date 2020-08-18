@@ -1,2 +1,2 @@
 # DFDNet_Colab
-A Google Coab for DFDNet: Blind Face Restoration
+A Google Colab for DFDNet: Blind Face Restoration
